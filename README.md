@@ -1,7 +1,7 @@
 # PacMan
 
 Projet Pacman
-Programmation avancée. Auteurs: Lothaire Holcvart.Lien Git: https://github.com/hlothaire/pacman Instructions de compilation:
+Programmation avancée. Auteur: Lothaire Holcvart.Lien Git: https://github.com/hlothaire/PacMan Instructions de compilation:
 
 Installer SDL2 et SDL2_TTF
 Decompresser l'archive dans un dossier.
